@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+//Testing git merge
 
 int main(void)
 {
